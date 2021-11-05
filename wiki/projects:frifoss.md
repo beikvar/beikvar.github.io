@@ -1,4 +1,5 @@
 # Frifoss
+
 |||
 |:-|:-|
 |Web|https://frifoss.repl.co|
