@@ -1,3 +1,7 @@
+---
+redirect_from: "/frifoss"
+---
+
 # <img width="45px" src="https://img.frifoss.repl.co/icon.png"> Frifoss
 
 |Web|Source code|Status|
