@@ -1,5 +1,5 @@
 ---
-redirect_from: "/ghostblvr", "/projects:ghostboulevard", "/ghostboulevard", "/ghost_boulevard", "/projects:ghost_boulevard"
+redirect_from: "/ghostblvr"
 ---
 
 # <img style="background:black" width="45px" src="https://ghost.television.si/favicon.png"> Ghost Boulevard
