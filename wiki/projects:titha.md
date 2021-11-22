@@ -2,7 +2,7 @@
 redirect_from: "/titha"
 ---
 
-# <img width="45px" src="https://titha.us.to/img/logo.png" style="image-rendering:pixelated"> TithaKun
+# <img width="45px" src="https://titha.us.to/img/icon.png" style="image-rendering:pixelated"> TithaKun
 
 |Web|Source code|Status|
 |:--|:--|:--|
