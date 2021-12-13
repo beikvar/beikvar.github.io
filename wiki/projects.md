@@ -1,2 +1,3 @@
 # Projects
-- [Titha](projects:titha)
+- [Frifoss](/projects:frifoss)
+- [Titha](/projects:titha)
