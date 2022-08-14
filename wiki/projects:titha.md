@@ -6,6 +6,6 @@ redirect_from: "/titha"
 
 |Web|Source code|Status|
 |:--|:--|:--|
-|[https://titha.us.to](https://titha.us.to)|[TithaEngine](https://github.com/beikvar/TithaEngine)|Active|
+|[https://titha.us.to](https://titha.us.to)|[TithaEngine](https://github.com/beikvar/TithaEngine)|Dead|
 
 Tablón de texto en español
